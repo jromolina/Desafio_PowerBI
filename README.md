@@ -10,5 +10,9 @@ Elaboração de relatório de FInanças implementado em Power BI
 
 ## Relátorio publicado !
 
+Acesse o link abaixo, visualize e manipule o relatório.
 
-<iframe title="Desafio DIO" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=58b81167-285c-421f-9aaa-3c44bd24e927&autoAuth=true&ctid=97cdc5bd-650b-4475-b235-cb4af65e9b1b" frameborder="0" allowFullScreen="true"></iframe>
+https://app.fabric.microsoft.com/view?r=eyJrIjoiMGQxZmFlOGItNDRjMS00YTYyLWJkNWYtYjIxYjhlYmFkMzU4IiwidCI6Ijk3Y2RjNWJkLTY1MGItNDQ3NS1iMjM1LWNiNGFmNjVlOWIxYiJ9
+
+Sucesso!
+
